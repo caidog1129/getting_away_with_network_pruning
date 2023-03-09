@@ -1,6 +1,5 @@
 # getting_away_with_network_pruning
-CPAIOR 2023 paper: Getting away with more network pruning: From sparsity to geometry and linear regions
-[link](https://arxiv.org/abs/2301.07966)
+CPAIOR 2023 paper: [Getting away with more network pruning: From sparsity to geometry and linear regions](https://arxiv.org/abs/2301.07966)
  
 **Training** folder contains the code for training neural networks with different dataset using shrinkbench for pruning.  
 **Counting** folder contains the code for counting linear regions.  
