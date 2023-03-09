@@ -1,4 +1,3 @@
-The code is in bounding_accuarcy folder.
 Determine how many cpu you want to use, change line 36 in prob.py to that number. Change sample factor in line 53 in all.py to be the closet integer to 50 that divides number of cpus. For example, have 12 cpus, change it to 48.
 
 python sampling.py/binomial_formula.py --n "[784,100,100,10]" --p "[0.01, 0.005, 0.0025, 0.001, 0.00075, 0.0005, 0.0001]" --name "mnist100" --model "Perceptron100" --dataset "MNIST"
